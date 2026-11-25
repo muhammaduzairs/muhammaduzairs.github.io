@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">GRE pipe profile and angle cutting guideline</title><desc id="desc">Conceptual workflow showing drawing-defined length L, cut angle theta, profile and orientation inputs for GRE pipe cutting and dimensional checks against project drawings.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="#f0b35b" stroke-width="1.6"/></marker><linearGradient id="pipe" x2="0" y2="1"><stop stop-color="#345c74"/><stop offset=".48" stop-color="#23465e"/><stop offset="1" stop-color="#142e43"/></linearGradient></defs>
+<rect width="1200" height="720" rx="24" fill="#102332"/>
+<g font-family="sans-serif" fill="#eef5fb">
+<text x="44" y="66" font-size="38" font-weight="700">GRE pipe profile &amp; angle cutting</text>
+<text x="44" y="106" font-size="23" fill="#a9c2d3">Drawing-led guideline for oil &amp; gas project requirements</text>
+<rect x="44" y="141" width="320" height="334" rx="16" fill="#173449" stroke="#365a72"/>
+<rect x="65" y="165" width="36" height="43" rx="3" fill="none" stroke="#86c7d5" stroke-width="2"/><path d="M74 178H93M74 187H93M74 196H86" stroke="#86c7d5" stroke-width="2"/>
+<text x="117" y="195" font-size="27" font-weight="700">Project drawing</text>
+<g font-size="25"><text x="69" y="258">Length: <tspan fill="#f0b35b" font-weight="700">L</tspan></text><text x="69" y="309">Cut angle: <tspan fill="#f0b35b" font-weight="700">θ</tspan></text><text x="69" y="360">Profile / end detail</text><text x="69" y="411">Reference orientation</text></g>
+<rect x="392" y="141" width="764" height="334" rx="16" fill="#0d2238" stroke="#365a72"/>
+<text x="420" y="182" font-size="22" fill="#86c7d5">Pipe outline · schematic</text>
+<path d="M465 253H1050L983 379H465Z" fill="#24465e" stroke="#86c7d5" stroke-width="3"/>
+<ellipse cx="465" cy="316" rx="27" ry="63" fill="#15374d" stroke="#86c7d5" stroke-width="3"/>
+<path d="M1050 253L983 379" stroke="#f0b35b" stroke-width="4"/>
+<path d="M1069 227V399" stroke="#8aa8bb" stroke-width="1.6" stroke-dasharray="6 7"/>
+<path d="M465 217H1035" stroke="#f0b35b" stroke-width="1.8" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<path d="M465 201V244M1050 201V244" stroke="#6d8e9f" stroke-width="1.4"/>
+<text x="750" y="208" text-anchor="middle" font-size="24" fill="#f0b35b">L per drawing</text>
+<path d="M1068 300Q1048 307 1033 322" fill="none" stroke="#f0b35b" stroke-width="2"/>
+<path d="M1006 396L1042 424H1100" fill="none" stroke="#7899ae" stroke-width="1.5"/>
+<text x="1055" y="454" text-anchor="middle" font-size="23" fill="#f0b35b">θ per drawing</text>
+<text x="510" y="429" font-size="22" fill="#a9c2d3">End profile and orientation</text><text x="510" y="457" font-size="22" fill="#a9c2d3">follow the specified drawing.</text>
+<g>
+<rect x="44" y="519" width="326" height="121" rx="14" fill="#173449" stroke="#365a72"/>
+<text x="69" y="557" font-size="23" fill="#f0b35b" font-weight="700">01 · Read requirements</text><text x="69" y="594" font-size="24">Length, angle, profile</text><text x="69" y="624" font-size="24">and orientation</text>
+<path d="M380 579H411" stroke="#f0b35b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="431" y="519" width="326" height="121" rx="14" fill="#173449" stroke="#365a72"/>
+<text x="456" y="557" font-size="23" fill="#f0b35b" font-weight="700">02 · Prepare guideline</text><text x="456" y="594" font-size="24">Profile / angle cutting</text><text x="456" y="624" font-size="24">layout and references</text>
+<path d="M767 579H798" stroke="#f0b35b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="818" y="519" width="338" height="121" rx="14" fill="#173449" stroke="#365a72"/>
+<text x="843" y="557" font-size="23" fill="#f0b35b" font-weight="700">03 · Check dimensions</text><text x="843" y="594" font-size="24">Compare the cut profile</text><text x="843" y="624" font-size="24">with project drawings</text>
+</g>
+<text x="600" y="688" text-anchor="middle" font-size="22" fill="#9bb8cb">Conceptual workflow · dimensions and angles follow project drawings.</text>
+</g></svg>
